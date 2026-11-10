@@ -1,0 +1,41 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/Applications/XAMPP/xamppfiles/htdocs/Hospital Tamper Detection/blockchain/contracts/HospitalRecordIntegrity.sol": {
+      "lastModificationDate": 1794301886093,
+      "contentHash": "df21238b81f765f45a6fcd6847a46efc",
+      "sourceName": "contracts/HospitalRecordIntegrity.sol",
+      "solcConfig": {
+        "version": "0.8.20",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "evmVersion": "paris",
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.20"
+      ],
+      "artifacts": [
+        "HospitalRecordIntegrity"
+      ]
+    }
+  }
+}
